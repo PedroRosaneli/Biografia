@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #ffffff; 
+    background-color: #000000; 
     color: #077436; 
     line-height: 1.6;
     margin: 0;
@@ -11,13 +11,14 @@ body {
 
 header {
     background-color: #28c051;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 2.5rem 0;
     margin-bottom: 25px;
     border-radius: 15px;
     box-shadow: 0 4px 8px #34ff71;
 }
+
 
 header h1 {
     font-size: 2.5rem;
@@ -28,6 +29,7 @@ main {
     max-width: 900px;
     margin: auto;
     background-color: rgb(255, 255, 255);
+    color: #000000;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px #28c051;
@@ -52,9 +54,9 @@ div h3 {
 }
 
 img {
-    max-width: 250px;
-    height: auto;
-    border-radius: 50%;
+    max-width: 2000px;
+    height: 500px;
+    border-radius: 0%;
     border: 5px solid #077436;
     display: block;
     margin: 20px 0;
